@@ -20,8 +20,6 @@ No installation, no dependencies — plug & play.
 Handles errors and interruptions gracefully.
 🖥️ Application Preview
 
-سيتم إضافة لقطات شاشة توضح واجهة المستخدم وتجربة الاستخدام قريبًا.
-
 ▶️ Usage Guide
 1. Download UniversalVideoDownloader.exe
 2. Launch the application
